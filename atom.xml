@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yuda Chen&#39;s Homepage</title>
+  
+  
+  <link href="https://tucydabc.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://tucydabc.github.io/"/>
+  <updated>2024-07-17T08:17:51.783Z</updated>
+  <id>https://tucydabc.github.io/</id>
+  
+  <author>
+    <name>Yuda Chen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Exercises of course Introduction to Modern Analysis</title>
+    <link href="https://tucydabc.github.io/2024/07/17/Exercises-of-course-Introduction-to-Modern-Analysis/"/>
+    <id>https://tucydabc.github.io/2024/07/17/Exercises-of-course-Introduction-to-Modern-Analysis/</id>
+    <published>2024-07-17T08:16:39.000Z</published>
+    <updated>2024-07-17T08:17:51.783Z</updated>
+    
+    <content type="html"><![CDATA[<p>In the spring semester of 2024, I took the Introduction to Modern Analysis course taught by Zhenqiu Zhang.</p><p>Here is the exercises of this course (in Chinese):<br><a href="/files/Exercises-of-Introduction-to-Modern-Analysis.pdf">Exercises of Introduction to Modern Analysis</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;In the spring semester of 2024, I took the Introduction to Modern Analysis course taught by Zhenqiu Zhang.&lt;/p&gt;
+&lt;p&gt;Here is the exercises o</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Notes taken from course Commutative Algebra</title>
+    <link href="https://tucydabc.github.io/2024/06/27/Notes-taken-from-course-Commutative-Algebra/"/>
+    <id>https://tucydabc.github.io/2024/06/27/Notes-taken-from-course-Commutative-Algebra/</id>
+    <published>2024-06-26T16:00:00.000Z</published>
+    <updated>2024-07-17T08:07:29.936Z</updated>
+    
+    <content type="html"><![CDATA[<p>In the spring semester of 2024, I took the Commutative Algebra course taught by Shizhuo Yu.</p><p>Here is the course notes (in Chinese):<br><a href="/files/Commutative-Algebra-Notes.pdf">Commutative Algebra Notes</a></p><p><img src="/images/Commutative-Algebra-Notes.jpg" alt="Commutative Algebra Notes"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;In the spring semester of 2024, I took the Commutative Algebra course taught by Shizhuo Yu.&lt;/p&gt;
+&lt;p&gt;Here is the course notes (in Chinese):</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
