@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Yuda Chen&#39;s Homepage</title>
+  
+  
+  <link href="https://tucydabc.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://tucydabc.github.io/"/>
+  <updated>2024-07-17T06:45:38.760Z</updated>
+  <id>https://tucydabc.github.io/</id>
+  
+  <author>
+    <name>Yuda Chen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Notes taken from course Commutative Algebra</title>
+    <link href="https://tucydabc.github.io/2024/06/27/Notes-taken-from-course-Commutative-Algebra/"/>
+    <id>https://tucydabc.github.io/2024/06/27/Notes-taken-from-course-Commutative-Algebra/</id>
+    <published>2024-06-26T16:00:00.000Z</published>
+    <updated>2024-07-17T06:45:38.760Z</updated>
+    
+    <content type="html"><![CDATA[<p>In the spring semester of 2024, I took the Commutative Algebra course taught by Shizhuo Yu.</p><p>Here’s the course notes (in Chinese):<br>[Commutative Algebra Notes](files&#x2F;Commutative Algebra Notes.pdf)</p><p>![Commutative Algebra Notes](images&#x2F;Commutative Algebra Notes.jpg)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;In the spring semester of 2024, I took the Commutative Algebra course taught by Shizhuo Yu.&lt;/p&gt;
+&lt;p&gt;Here’s the course notes (in Chinese):&lt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
