@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Yuda Chen&#39;s Homepage</title>
+  <title>Yuda Chen&#39;s Personal Page</title>
   
   
   <link href="https://tucydabc.github.io/atom.xml" rel="self"/>
   
   <link href="https://tucydabc.github.io/"/>
-  <updated>2024-07-17T08:17:51.783Z</updated>
+  <updated>2024-07-17T08:07:29.936Z</updated>
   <id>https://tucydabc.github.io/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Exercises of course Introduction to Modern Analysis</title>
-    <link href="https://tucydabc.github.io/2024/07/17/Exercises-of-course-Introduction-to-Modern-Analysis/"/>
-    <id>https://tucydabc.github.io/2024/07/17/Exercises-of-course-Introduction-to-Modern-Analysis/</id>
-    <published>2024-07-17T08:16:39.000Z</published>
-    <updated>2024-07-17T08:17:51.783Z</updated>
-    
-    <content type="html"><![CDATA[<p>In the spring semester of 2024, I took the Introduction to Modern Analysis course taught by Zhenqiu Zhang.</p><p>Here is the exercises of this course (in Chinese):<br><a href="/files/Exercises-of-Introduction-to-Modern-Analysis.pdf">Exercises of Introduction to Modern Analysis</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;In the spring semester of 2024, I took the Introduction to Modern Analysis course taught by Zhenqiu Zhang.&lt;/p&gt;
-&lt;p&gt;Here is the exercises o</summary>
-      
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Notes taken from course Commutative Algebra</title>
@@ -51,6 +30,46 @@
       
     <summary type="html">&lt;p&gt;In the spring semester of 2024, I took the Commutative Algebra course taught by Shizhuo Yu.&lt;/p&gt;
 &lt;p&gt;Here is the course notes (in Chinese):</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Exercises of course Introduction to Modern Analysis</title>
+    <link href="https://tucydabc.github.io/2024/05/14/Exercises-of-course-Introduction-to-Modern-Analysis/"/>
+    <id>https://tucydabc.github.io/2024/05/14/Exercises-of-course-Introduction-to-Modern-Analysis/</id>
+    <published>2024-05-13T16:00:00.000Z</published>
+    <updated>2024-07-17T08:48:27.275Z</updated>
+    
+    <content type="html"><![CDATA[<p>In the spring semester of 2024, I took the Introduction to Modern Analysis course taught by Zhenqiu Zhang. There are 20 problems in total in it.</p><p>Here are the exercises of this course (in Chinese):<br><a href="/files/Exercises-of-Introduction-to-Modern-Analysis.pdf">Exercises of Introduction to Modern Analysis</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;In the spring semester of 2024, I took the Introduction to Modern Analysis course taught by Zhenqiu Zhang. There are 20 problems in total</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Some articles related to Mathematical Olympiad</title>
+    <link href="https://tucydabc.github.io/2024/01/01/Some-articles-related-to-Mathematical-Olympiad/"/>
+    <id>https://tucydabc.github.io/2024/01/01/Some-articles-related-to-Mathematical-Olympiad/</id>
+    <published>2023-12-31T16:00:00.000Z</published>
+    <updated>2024-07-17T10:24:51.435Z</updated>
+    
+    <content type="html"><![CDATA[<p>When I was in high school, I was a student studying for Mathematical Olympiad. I won the first prize of The Examination for the National Senior High School’s Mathematical Competition in 2021.</p><p>Most of the following content was written by me or with some friends when I was in high school. All these articles are in Chinese.</p><p>Published on <a href="www.nsmath.cn">Mathematical New-Star Network(数学新星网)</a>:</p><ul><li><a href="%5Cfiles%5Csharygin15th.pdf">The Problems and Solutions of 15th Sharygin Geometry Olympiad.</a> Published in October 2019. <strong>This is my first (informal) paper.</strong></li><li><a href="%5Cfiles%5C2020vmo.pdf">The Problems and Solutions of 2020 Vietnam Mathematical Olympiad.</a> Published in March 2020.</li><li><a href="%5Cfiles%5Csharygin17th.pdf">The Problems and Solutions of 17th Sharygin Geometry Olympiad.</a> Published in December 2021.</li><li><a href="%5Cfiles%5Ciranian9th.pdf">The Problems and Solutions of 9th Iranian Geometry Olympiad.</a> Published in May 2022.</li><li><a href="%5Cfiles%5Csharygin18th.pdf">The Problems and Solutions of 18th Sharygin Geometry Olympiad.</a> Published in January 2023.</li></ul><p>Published on <strong>High-School Mathematics(中等数学)</strong>:</p><ul><li><a href="%5Cfiles%5CUSATST.pdf">A Study on a Problem in American Team Selection Test.</a> <strong>High-School Mathematics</strong>,2022,(03):15-17.<strong>This is my first formal paper.</strong></li><li><a href="%5Cfiles%5C2019blatic.pdf">Blatic Way Mathematical Contest in 2019.</a> <strong>High-School Mathematics</strong>,2022,(07):35-41.</li></ul><p>(The <strong>High-School Mathematics</strong> journal is the only publication in China that focuses on reporting mathematics competitions.)</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;When I was in high school, I was a student studying for Mathematical Olympiad. I won the first prize of The Examination for the National </summary>
       
     
     

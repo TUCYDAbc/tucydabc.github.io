@@ -2,7 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://tucydabc.github.io/2024/07/17/Exercises-of-course-Introduction-to-Modern-Analysis/</loc>
+    <loc>https://tucydabc.github.io/2024/01/01/Some-articles-related-to-Mathematical-Olympiad/</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tucydabc.github.io/albums/index.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tucydabc.github.io/about/index.html</loc>
+    
+    <lastmod>2024-07-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tucydabc.github.io/2024/05/14/Exercises-of-course-Introduction-to-Modern-Analysis/</loc>
     
     <lastmod>2024-07-17</lastmod>
     
@@ -14,15 +41,6 @@
     <loc>https://tucydabc.github.io/2024/06/27/Notes-taken-from-course-Commutative-Algebra/</loc>
     
     <lastmod>2024-07-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tucydabc.github.io/about/index.html</loc>
-    
-    <lastmod>2024-07-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
