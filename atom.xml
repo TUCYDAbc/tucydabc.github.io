@@ -6,7 +6,7 @@
   <link href="https://tucydabc.github.io/atom.xml" rel="self"/>
   
   <link href="https://tucydabc.github.io/"/>
-  <updated>2024-07-17T08:07:29.936Z</updated>
+  <updated>2024-10-31T14:28:23.367Z</updated>
   <id>https://tucydabc.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Exercises of course Introduction to the Fundamentals of Partial Differential Equations</title>
+    <link href="https://tucydabc.github.io/2024/10/31/Exercises-of-course-Introduction-to-the-Fundamentals-of-Partial-Differential-Equations/"/>
+    <id>https://tucydabc.github.io/2024/10/31/Exercises-of-course-Introduction-to-the-Fundamentals-of-Partial-Differential-Equations/</id>
+    <published>2024-10-31T10:59:00.000Z</published>
+    <updated>2024-10-31T14:28:23.367Z</updated>
+    
+    <content type="html"><![CDATA[<p>Associate professor Shiwu Yang in BICMR taught the course of Introduction to the Fundamentals of Partial Differential Equations in the spring semester of 2024. Here are the exercises and my solutions of it.</p><p><a href="/PDEYSW/1-4Problems.html">1.4 Problems</a><br /><a href="/PDEYSW/1-4Problemscn.html">1.4 Problems Chinese version</a><br /><a href="/PDEYSW/1-4Solutions.html">1.4 Solutions</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Associate professor Shiwu Yang in BICMR taught the course of Introduction to the Fundamentals of Partial Differential Equations in the sp</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Notes taken from course Commutative Algebra</title>
