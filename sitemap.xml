@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tucydabc.github.io/2025/08/24/Part-of-solutions-to-exercises-of-Polynomial-Methods-in-Combinatorics/</loc>
+    
+    <lastmod>2025-08-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tucydabc.github.io/2024/10/31/Exercises-of-course-Introduction-to-the-Fundamentals-of-Partial-Differential-Equations/</loc>
+    
+    <lastmod>2025-08-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tucydabc.github.io/notes/Solutions-to-Polynomial-Methods.html</loc>
+    
+    <lastmod>2025-08-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://tucydabc.github.io/research/index.html</loc>
     
     <lastmod>2025-08-14</lastmod>
@@ -23,15 +50,6 @@
     <loc>https://tucydabc.github.io/links/index.html</loc>
     
     <lastmod>2025-04-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tucydabc.github.io/2024/10/31/Exercises-of-course-Introduction-to-the-Fundamentals-of-Partial-Differential-Equations/</loc>
-    
-    <lastmod>2024-12-24</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -184,7 +202,7 @@
 
   <url>
     <loc>https://tucydabc.github.io/</loc>
-    <lastmod>2025-08-15</lastmod>
+    <lastmod>2025-08-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
