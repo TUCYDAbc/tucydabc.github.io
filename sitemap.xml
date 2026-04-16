@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tucydabc.github.io/links/index.html</loc>
+    
+    <lastmod>2026-04-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://tucydabc.github.io/research/index.html</loc>
+    
+    <lastmod>2026-04-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://tucydabc.github.io/about/index.html</loc>
+    
+    <lastmod>2026-04-07</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://tucydabc.github.io/2024/10/31/Exercises-of-course-Introduction-to-the-Fundamentals-of-Partial-Differential-Equations/</loc>
     
     <lastmod>2025-08-24</lastmod>
@@ -19,27 +40,6 @@
     <loc>https://tucydabc.github.io/notes/Solutions-to-Polynomial-Methods.html</loc>
     
     <lastmod>2025-08-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://tucydabc.github.io/research/index.html</loc>
-    
-    <lastmod>2025-08-15</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://tucydabc.github.io/about/index.html</loc>
-    
-    <lastmod>2025-06-25</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://tucydabc.github.io/links/index.html</loc>
-    
-    <lastmod>2025-04-08</lastmod>
     
   </url>
   
@@ -158,7 +158,7 @@
 
   <url>
     <loc>https://tucydabc.github.io/</loc>
-    <lastmod>2026-04-07</lastmod>
+    <lastmod>2026-04-16</lastmod>
   </url>
 
   
